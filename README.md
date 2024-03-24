@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tureva
 - 👀 I’m interested in coding and superheroes and the multiverse(chuckles)!
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on projects that will launch me into the front-end web developers community
+- 🌱 I’m currently learning Vue with Laravel and InertiaJs
+- 💞️ I’m looking to collaborate on projects that will launch me into the full stack web developers community
 - 📫 How to reach me? easy: atureva@gmail.com
 
 <!---
